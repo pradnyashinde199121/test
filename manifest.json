@@ -1,4 +1,4 @@
-{
+[{
     "short_name": "Chat",
     "name": "Chat",
     "icons": [
@@ -13,3 +13,4 @@
     "theme_color": "#e05a47",
     "display": "standalone"
   }
+ ]
